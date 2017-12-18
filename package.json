@@ -1,0 +1,13 @@
+{
+  "name": "DigitEvent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "event": "node event.js",
+    "guests": "node guests.js"
+  },
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
